@@ -1,0 +1,49 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/aliceishere/snugepi/blob/master/Repi\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "fQn1cuifL4Ui",
+        "colab_type": "text"
+      },
+      "source": [
+        "### **Associations between e-cigarette use and pulmonary diseases**"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "3RXfuO-tMKRr",
+        "colab_type": "text"
+      },
+      "source": [
+        "Objective:\n",
+        "- To observe the general effect of e-cigarette use on pulmonary health.\n",
+        "- "
+      ]
+    }
+  ]
+}
